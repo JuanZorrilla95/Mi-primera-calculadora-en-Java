@@ -20,7 +20,7 @@ public class MiPrimeraCalculadora {
         // TODO code application logic here
        
        Calculadora c=new Calculadora(); 
-    c.setVisible(true);//estos 2 parrafos es para la creacion de la del objeto y su visualizacion
+    c.setVisible(true);//estos 2 parrafos son para la creacion del objeto y su visualizacion
     }
     
 }
