@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package miprimeracalculadora;
+import Paquete.Calculadora; //importar objeto
 
 
 /**
@@ -17,6 +18,9 @@ public class MiPrimeraCalculadora {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       
+       Calculadora c=new Calculadora(); 
+    c.setVisible(true);//estos 2 parrafos es para la creacion de la del objeto y su visualizacion
     }
     
 }
